@@ -1,0 +1,13 @@
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\bin\Debug\netcoreapp3.1\DOTNET-POO.exe
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\bin\Debug\netcoreapp3.1\DOTNET-POO.deps.json
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\bin\Debug\netcoreapp3.1\DOTNET-POO.runtimeconfig.json
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\bin\Debug\netcoreapp3.1\DOTNET-POO.runtimeconfig.dev.json
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\bin\Debug\netcoreapp3.1\DOTNET-POO.dll
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\bin\Debug\netcoreapp3.1\DOTNET-POO.pdb
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.csprojAssemblyReference.cache
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.AssemblyInfoInputs.cache
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.AssemblyInfo.cs
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.csproj.CoreCompileInputs.cache
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.dll
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.pdb
+C:\Users\Karlos Eduardo\OneDrive\C#.Net\DOTNET-POO\obj\Debug\netcoreapp3.1\DOTNET-POO.genruntimeconfig.cache
